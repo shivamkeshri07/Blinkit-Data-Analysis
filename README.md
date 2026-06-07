@@ -43,29 +43,4 @@ This project analyzes Blinkit's sales, outlet performance, product categories, a
 
 - 
 
-## 📂 Repository Structure
-
-Blinkit-Data-Analysis
-│
-├── Dashboard.pbix
-├── Blinkit_Presentation.pptx
-├── Dataset.xlsx
-├── Screenshots
-└── README.md
-
-## 📸 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-## 💡 Key Insights
-
-- Supermarket Type 1 generated the highest sales.
-- Tier 3 locations contributed the largest revenue share.
-- Fruits & Vegetables and Snack Foods were top-performing categories.
-- Average customer rating remained close to 4.
-
-## 👨‍💻 Author
-
-Shivam Keshri
-
-Aspiring Data Analyst | SQL | Power BI | Python
+Linkedin - https://www.linkedin.com/in/shivamkeshri07/
